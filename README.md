@@ -6,3 +6,4 @@ Test Project
 3. 0.3version
 4. 0.4 version terminal
 5. vi editor Version -1
+6. 0.5 test
